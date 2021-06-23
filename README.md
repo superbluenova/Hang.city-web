@@ -41,7 +41,6 @@ Hang.city is a hang out game that lets you play and have fun with friends in thi
 - Code
 
 Things I need to do:
- - Clean up this website.
  - Make world & characters.
  - Code world & characters.
 
