@@ -34,9 +34,12 @@ Hang.city is a hang out game that lets you play and have fun with friends in thi
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
 
 ```markdown
-Components to project
-- Bulleted
-- List
+ Components to project
+- Characters
+- World
+- Website
+- Code
+
 
 # Header 1
 ## Header 2
@@ -53,8 +56,8 @@ Components to project
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ -->
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superbluenova/hang-city-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
