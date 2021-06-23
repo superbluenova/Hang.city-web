@@ -1,14 +1,23 @@
 # Text 1
+
 ## Text 2
+
 ### Text 3
+
 - Bulleted
 - List
+
 1. Numbered
 2. List
+
 **Bold**
+
 _Italic_ 
+
 `Code` text
+
 [Link](https://hang.city)
+
 ![Image](https://hang.city/image.png)
 
 ## Welcome to Hang.City - a summer project for friends and family to hang out
