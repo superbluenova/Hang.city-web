@@ -1,4 +1,4 @@
-# Text 1
+<!-- # Text 1
 
 ## Text 2
 
@@ -18,7 +18,7 @@ _Italic_
 
 [Link](https://hang.city)
 
-![Image](https://hang.city/image.png)
+![Image](https://hang.city/image.png) -->
 
 ## Welcome to Hang.City - a summer project for friends and family to hang out
 
