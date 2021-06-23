@@ -1,15 +1,31 @@
-## Welcome to GitHub Pages
+# Text 1
+## Text 2
+### Text 3
+- Bulleted
+- List
+1. Numbered
+2. List
+**Bold**
+_Italic_ 
+`Code` text
+[Link](https://hang.city)
+![Image](https://hang.city/image.png)
 
-You can use the [editor on GitHub](https://github.com/superbluenova/hang-city-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Hang.City - a summer project for friends and family to hang out
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/superbluenova/hang-city-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files. -->
 
-### Markdown
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ -->
+
+### Overview
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Components to project
+- Bulleted
+- List
 
 # Header 1
 ## Header 2
