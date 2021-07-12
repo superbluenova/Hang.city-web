@@ -20,9 +20,15 @@ _Italic_
 
 ![Image](https://hang.city/image.png) -->
 
-## Welcome to Hang.city - a summer project for friends and family to hang out
+## Welcome to Hang.city!
 
-Hang.city is a place where you and your friends can hang out and have fun. You can do as little as just talking to your friends, or you can play around in the hang.city world. 
+
+
+
+
+## What is Hang.city?
+
+Hang.city is a place where you and your friends can hang out and have fun. You can do as little as just talking to your friends, or you can play around with your avatar in the hang.city world. Hang.city is a game that lets you interact with different people that use their avatars to do things that you can do in real life. You can walk to work, go to school. This is no risk and all fun!
 <!-- You can use the [editor on GitHub](https://github.com/superbluenova/hang-city-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files. -->
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -38,20 +44,16 @@ Hang.city is a hang out game that lets you play and have fun with friends in thi
 - Characters
 - World
 - Website
-- Code
-
-Things I need to do:
- - Make world & characters.
- - Code world & characters.
+- Code 
 
 ```
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
  -->
-<!-- ### Jakyll Themes -->
 
 <!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superbluenova/hang-city-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
