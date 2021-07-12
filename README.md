@@ -20,10 +20,6 @@ _Italic_
 
 ![Image](https://hang.city/image.png) -->
 
-## Welcome to Hang.city!
-
-
-
 
 
 ## What is Hang.city?
