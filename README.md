@@ -24,11 +24,12 @@ _Italic_
 
 ## What is Hang.city?
 
-Hang.city is a place where you and your friends can hang out and have fun. You can do as little as just talking to your friends, or you can play around with your avatar in the hang.city world. Hang.city is a game that lets you interact with different people that use their avatars to do things that you can do in real life. You can walk to work, go to school. All the things you can't do in real life, like climbing up super steep buildings or running up a 30 foot tree you can do in Hang.city!
-<!-- You can use the [editor on GitHub](https://github.com/superbluenova/hang-city-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files. -->
+Hang.city is a place where you and your friends can hang out and have fun. You can do as little as just talking to your friends, or you can play around with your avatar in the hang.city world. Hang.city is a game that lets you interact with different people that use their avatars to do things that you can do in real life. You can walk to work, go to school. 
 
-<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- -->
+## What can you do in Hang.city?
+
+Hang.city is going to be in a 3rd person view. Hang.city is going to be a simulation for real life. You can learn to do different things in Hang.city just like real life. You can be the first person to make a time machine. Or you can learn how to be the world's best detective. You can do all the things you can do in real life or what you can't do, like climbing up 90 degree angle buildings or running up a 30 foot tree you can do in Hang.city! 
+
 
 ### Overview
 
@@ -43,6 +44,9 @@ Hang.city is a hang out game that lets you play and have fun with friends in thi
 - Code 
 
 ```
+
+# Coming Soon!
+
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
  -->
