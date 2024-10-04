@@ -45,7 +45,7 @@ Hang.city is a hang out game that lets you play and have fun with friends in thi
 
 ```
 
-# Coming Soon!
+# Coming Later!
 
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
