@@ -1,0 +1,24 @@
+# What is perfect square form?
+Perfect square form is when a quadratic is expressed as a perfect square trinomial.
+## But what exactly is a quadratic and a trinomial?
+A quadratic is just an equation that has x squared or x^2 in it. An example could be:
+## y = x^2 + 38x + 8
+This would be a quadratic.
+A trinomial is an expression with 3 parts. In this example we have the 7, 38, and 8. This is a trinomial.
+Now how do you make this equation into a perfect square?
+When you have 7 x^2 tiles, 38 x tiles, and 8 ones tiles you cannot make a square using this however if we add a few to both sides then we can.
+We can replace the y with a 0 for simplicity.
+The equation we now have is:
+## 0 = x^2 + 38x + 8
+A handy trick we can use to find how many ones tiles we have to add in order to make a square is very simple.
+Divide 38 by 2 and then square it. AKA:
+## (38/2)^2
+This equals to 361. We can use this to say well we need 361 total ones tiles but we already have 8 so then we only really need 353 ones tiles.
+We can update our equation to:
+## 353 = x^2 + 38x + 361
+The reason why we changed the 0 to 353 is because we have to add the same thing to both sides.
+# Well great we have this equation, But why does it matter?
+This is importatnt because now we can make one binomial multiplied by itself to make the trinomial.
+The equation would be:
+## 353 = (x+19)^2
+
