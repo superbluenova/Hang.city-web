@@ -53,6 +53,7 @@ This is because there was one key detail I forgot to mention before. When A = 1 
 Similarly, if A is 1/2 or <1 then the parabola will get wider.
 If you want to get an equation in y = ax^2+bx+c notation then you can just multiply the factored equation and you will end up with standard form.
 
+<a href="radicals.txt">Here is another page I have done</a>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
  -->
